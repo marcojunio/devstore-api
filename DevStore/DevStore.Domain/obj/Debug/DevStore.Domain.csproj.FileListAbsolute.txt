@@ -1,0 +1,6 @@
+E:\VS CODE 2019\projects\WebAPI\DevStore\DevStore.Domain\bin\Debug\DevStore.Domain.dll
+E:\VS CODE 2019\projects\WebAPI\DevStore\DevStore.Domain\bin\Debug\DevStore.Domain.pdb
+E:\VS CODE 2019\projects\WebAPI\DevStore\DevStore.Domain\obj\Debug\DevStore.Domain.csprojAssemblyReference.cache
+E:\VS CODE 2019\projects\WebAPI\DevStore\DevStore.Domain\obj\Debug\DevStore.Domain.csproj.CoreCompileInputs.cache
+E:\VS CODE 2019\projects\WebAPI\DevStore\DevStore.Domain\obj\Debug\DevStore.Domain.dll
+E:\VS CODE 2019\projects\WebAPI\DevStore\DevStore.Domain\obj\Debug\DevStore.Domain.pdb

@@ -1,0 +1,2 @@
+E:\VS CODE 2019\projects\WebAPI\DevStore\DevStore.Infra\obj\Debug\DevStore.Infra.csprojAssemblyReference.cache
+E:\VS CODE 2019\projects\WebAPI\DevStore\DevStore.Infra\obj\Debug\DevStore.Infra.csproj.CoreCompileInputs.cache
